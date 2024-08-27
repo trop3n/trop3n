@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trop3n
 - 👀 I’m interested in programming, web development, mobile development, cybersecurity, 3D modelling, digital art
-- 🌱 I’m currently learning WebDev, Hacking, Python, Elixir, Rust, Ruby
+- 🌱 I’m currently learning WebDev, Hacking, Python, Elixir, Rust, Ruby, C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... he/him
