@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trop3n
 - 👀 I’m interested in programming, web development, mobile development, cybersecurity, 3D modelling, digital art
-- 🌱 I’m currently learning InfoSec, Ethical Hacking, Python, JavaScript, Rust, Go
+- 🌱 I’m currently learning InfoSec, Ethical Hacking, Python, JavaScript, Rust, Go, Nix and whatever else interests me.
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: 
 
