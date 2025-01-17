@@ -3,6 +3,7 @@ Currently Learning:
 - InfoSec
 - Ethical Hacking
 - Rust
+- Nix
 
 On the Docket:
 - Elixir
