@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @trop3n
-- 👀 I’m interested in programming, web development, mobile development, cybersecurity, 3D modelling, digital art
-- 🌱 I’m currently learning InfoSec, Ethical Hacking, Python, JavaScript, Rust, Go, Nix and whatever else interests me.
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: 
+Currently Learning:
+- Python
+- InfoSec
+- Ethical Hacking
+- Rust
+
+On the Docket:
+- Elixir
+- WebDev
+- Network Programming
+- Go
+- C/C++
 
 <!---
 trop3n/trop3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
