@@ -1,3 +1,5 @@
+### `Just trying to die with a fully maxed-out skill tree.`
+
 Currently Learning:
 - Python
 - InfoSec
